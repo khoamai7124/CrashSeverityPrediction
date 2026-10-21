@@ -73,8 +73,8 @@ stable under cost-sensitivity testing.
 
 ## Project Structure
 ```
-├──data
-├──report
+├── data
+├── report
 ├── diagrams/ # SAS EM process flow screenshots
 └── README.md
 ```
