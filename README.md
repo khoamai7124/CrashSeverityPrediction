@@ -76,8 +76,6 @@ stable under cost-sensitivity testing.
 ├──data
 ├──report
 ├── diagrams/ # SAS EM process flow screenshots
-├── output/ # Model comparison tables, ROC charts, scoring results
-├── sas-code/ # Custom SAS Code node scripts (DCA_CODE_C creation, etc.)
 └── README.md
 ```
 
