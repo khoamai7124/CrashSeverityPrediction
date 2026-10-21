@@ -72,10 +72,12 @@ stable under cost-sensitivity testing.
 - SAS Base (custom code for variable transformation and diagnostics)
 
 ## Project Structure
+```
 ├── diagrams/ # SAS EM process flow screenshots
 ├── output/ # Model comparison tables, ROC charts, scoring results
 ├── sas-code/ # Custom SAS Code node scripts (DCA_CODE_C creation, etc.)
 └── README.md
+```
 
 ## Author
 Anh Khoa Mai — Business Analytics, La Trobe University
